@@ -1,0 +1,12 @@
+[submodule "rt_access_project_task"]
+	path = rt_access_project_task
+	url = git@gitlab.com:rightechs/custom_addons/rt_access_project_task.git
+	branch = 16.0
+[submodule "project_add_followers_auto"]
+	path = project_add_followers_auto
+	url = git@gitlab.com:rightechs/addons/project_add_followers_auto.git
+	branch = 16.0
+[submodule "rt_sale_order_fields"]
+	path = rt_sale_order_fields
+	url = git@gitlab.com:rightechs/addons/rt_sale_order_fields.git
+	branch = 16.0
